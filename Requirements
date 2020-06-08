@@ -1,0 +1,8 @@
+There are 2 Pre-requisites for this Project namely :
+
+1. Chrome webdriver 
+   Download it from - " https://chromedriver.chromium.org/downloads "
+   acoording to your chrome version
+
+2. Selenium - Web Browser automation package for python 
+   Just type ' pip3 install Selenium ' in your terminal window(cmd) 
